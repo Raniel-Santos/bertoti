@@ -4,7 +4,7 @@ Repositório destinado a disciplina IHC ministrada pelo Professor Giuliano Berto
 ## Acertos
 
 <details>
-   <summary><b>1. Visibilidade do status do sistema</b></summary>
+   <summary><b>1.Status e Visibilidade do Sistema</b></summary>
     <br>
     O site em questão aqui é o Globo Esporte. O seu player de video qual está sendo reproduzido e quais serão os proximos de sua playlist.
 
