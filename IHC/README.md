@@ -36,6 +36,31 @@ Repositório destinado a disciplina IHC ministrada pelo Professor Giuliano Berto
   </div>
 </details>
 
+
+<details>
+   <summary><b>1.3 Adaptável </b></summary>   
+   <br>
+    <p>Esse site do Linkedin e´um bom exemplo de site adptavel, pois sua responsividade funciona muito bem.</p>    
+  <br>
+  
+  <div align="center">
+    <img alt="linkedin" src="img/linkedin.png">
+  </div>
+</details>
+
+
+
+<details>
+   <summary><b>1.1 Alternativas em Texto </b></summary>   
+   <br>
+    <p>As legendas do Youtube é um exemplo, oferecendo alternativas textuais para conteúdos não textual.</p>    
+  <br>
+  
+  <div align="center">
+    <img alt="youtube" src="img/youtube.png">
+  </div>
+</details>
+
 <br>
 
 ## Erros
@@ -51,6 +76,17 @@ Repositório destinado a disciplina IHC ministrada pelo Professor Giuliano Berto
 </details>
 
 <details>
+   <summary><b>2.4 Navegavel
+</b></summary>
+    <br>    
+    <p>O site da Fatec não se adapta de forma satisfatória a telas menores.</p>
+    <br>
+  <div align="center">
+    <img alt="fatec" src="img/fatec.png">
+  </div>
+</details>
+
+<details>
    <summary><b>1.4.8 Apresentação Visual
 </b></summary>
     <br>    
@@ -58,5 +94,29 @@ Repositório destinado a disciplina IHC ministrada pelo Professor Giuliano Berto
     <br>
   <div align="center">
     <img alt="spotify" src="img/siga.png">
+  </div>
+</details>
+
+
+<details>
+   <summary><b>1.4 Distinguivel
+</b></summary>
+    <br>    
+    <p>O site da Shopee acumula muita informação em pequenos blocos, dificultando a diferenciação dos produtos.</p>
+    <br>
+  <div align="center">
+    <img alt="shopee" src="img/shopee.png">
+  </div>
+</details>
+
+
+<details>
+   <summary><b>1.4 Distinguivel
+</b></summary>
+    <br>    
+    <p>O site da Shopee acumula muita informação em pequenos blocos, dificultando a diferenciação dos produtos.</p>
+    <br>
+  <div align="center">
+    <img alt="shopee" src="img/shopee.png">
   </div>
 </details>
