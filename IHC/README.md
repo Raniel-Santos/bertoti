@@ -110,13 +110,3 @@ Repositório destinado a disciplina IHC ministrada pelo Professor Giuliano Berto
 </details>
 
 
-<details>
-   <summary><b>1.4 Distinguivel
-</b></summary>
-    <br>    
-    <p>O site da Shopee acumula muita informação em pequenos blocos, dificultando a diferenciação dos produtos.</p>
-    <br>
-  <div align="center">
-    <img alt="shopee" src="img/shopee.png">
-  </div>
-</details>
